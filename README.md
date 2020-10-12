@@ -3,7 +3,7 @@
 # 요약 - 텍스트, MM - Mind Map
 
 # http://nissisoft21.dothome.co.kr/exam2020/index.php
-- 이 url에 나오는 문제들은 곽경남 선생님께서 online, 기타에 나오는 문제들을 online에 옮겨주신 것입니다.
+- 이 url은 함께 교육을 받은 곽경남 선생님께서 online, 기타에 나오는 문제들을 online에 옮겨주신 것입니다.
 - 종합평가를 준비해 가능 과정에 아주 많은 도움이 되었습니다.
 - 다시 한번 감사드립니다.
 
